@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: reactive-orders
+  profiles:
+    active: dev
+
+server:
+  port: 8095
